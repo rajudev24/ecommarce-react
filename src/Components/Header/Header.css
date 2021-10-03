@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+}
+.logo-img{
+    height: 80px;
+}
+.nav-menu{
+    background-color: black;
+    line-height: 50px;
+    margin: 0px;
+}
+.nav-menu a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-size: 20px;
+    padding: 5px;
+    
+}
+.nav-menu a:hover{
+    background-color: lightgray;
+}
